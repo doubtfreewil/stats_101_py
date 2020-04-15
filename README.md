@@ -9,5 +9,3 @@ I'm interested is incorporating numpy, pandas, and the display features of sympy
 I know many andvanced stat functions are available in the scipy library, but I'd rather build out the formulas more manually so everyone can read all the steps and how they relate to the manual process. 
 
 My goal is to build out a set of notebooks that future students can use as a tool. 
-
-Thanks for visiting.
